@@ -376,13 +376,13 @@ body{
 .card-1 > div:nth-child(5) > button{
     background-color: #F31C8A;
     color: #ffffff;
-    font-size: 17px;
+    font-size: 13px;
 }
 .card-2 >div:nth-child(5) > button,
 .card-3 >div:nth-child(5) > button{
     background-color: #2E2550;
     color: #ffffff;
-    font-size: 17px;
+    font-size: 13px;
 }
 .boton > button{
     width: 7rem;
